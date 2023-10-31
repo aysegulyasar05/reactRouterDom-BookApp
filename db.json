@@ -1,0 +1,184 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "description": "Les Misérables is a French historical novel by Victor Hugo, first published in 1862, that is considered one of the greatest novels of the 19th century.",
+      "year": 1862,
+      "image": "https://www.playbillstore.com/images/Les%20Miserables%20Broadway%20Poster%20(2014%20Revival).png",
+      "page": 1463
+    },
+    {
+      "id": 2,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "This epic fantasy set in Middle-earth tells the adventures that change the fate of the ring.",
+      "year": 1954,
+      "image": "https://m.media-amazon.com/images/I/61nQi7l757L._AC_UF894,1000_QL80_.jpg",
+      "page": 1178
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "description": "Set in a magical world, this book tells the beginning of Harry Potter's adventures.",
+      "year": 1997,
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/8d41b798510867.5ede293ddfb3e.png",
+      "page": 223
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "Set in a totalitarian world, this novel explores themes of individual freedom and societal control.",
+      "year": 1949,
+      "image": "https://m.media-amazon.com/images/I/61mmLfIDT0L._AC_UF894,1000_QL80_.jpg",
+      "page": 328
+    },
+    {
+      "id": 5,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoyevsky",
+      "description": "Centered around moral conflicts and themes of crime, this novel is one of Dostoyevsky's masterpieces.",
+      "year": 1880,
+      "image": "https://cdn.kobo.com/book-images/561f9624-ba0a-43dc-a569-dac6327e3804/1200/1200/False/the-brothers-karamazov-233.jpg",
+      "page": 796
+    },
+    {
+      "id": 6,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "description": "Set during Napoleon's invasion of Russia, this novel is famous for its historical and psychological depth.",
+      "year": "1869",
+      "image": "https://m.media-amazon.com/images/I/51lLr8b16DL.jpg",
+      "page": 1225
+    },
+    {
+      "id": 7,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "description": "Set on the desert planet Arrakis, this science fiction novel explores themes of politics and religion.",
+      "year": "1965",
+      "image": "https://images.penguinrandomhouse.com/cover/9780593099322",
+      "page": 412
+    },
+    {
+      "id": 8,
+      "title": "Silence",
+      "author": "Shusaku Endo",
+      "description": "Set in 17th-century Japan, it tells the story of a priest and themes of faith.",
+      "year": "1966",
+      "image": "https://m.media-amazon.com/images/I/91Kp6z43OgL._AC_UF894,1000_QL80_.jpg",
+      "page": 301
+    },
+    {
+      "id": 9,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "The story of young Holden Caulfield, this novel critiques youth and society.",
+      "year": "1951",
+      "image": "https://i.pinimg.com/originals/12/33/31/123331ff695c64295e520d80edfb76d9.jpg",
+      "page": 277
+    },
+    {
+      "id": 10,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "Dealing with racial discrimination, this novel tells a childhood story in Alabama.",
+      "year": "1960",
+      "image": "https://render.fineartamerica.com/images/rendered/default/poster/8/10/break/images/artworkimages/medium/3/to-kill-a-mockingbird-book-art-ink-well.jpg",
+      "page": 324
+    },
+    {
+      "id": 11,
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "description": "Exploring existentialist thought, this novel tells the story of an assassin.",
+      "year": "1942",
+      "image": "https://images.fineartamerica.com/images-medium-large-5/the-stranger-albert-camus-poster-paul-sutcliffe.jpg",
+      "page": 123
+    },
+    {
+      "id": 12,
+      "title": "Perfume: The Story of a Murderer",
+      "author": "Patrick Süskind",
+      "description": "Set in 18th-century France, this novel tells the story of a perfumer.",
+      "year": "1985",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2Mzk2NjkzNl5BMl5BanBnXkFtZTYwMzIzOTc2._V1_FMjpg_UX1000_.jpg",
+      "page": 263
+    },
+    {
+      "id": 13,
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "description": "Exploring themes of love, passion, and revenge, this novel is set in Yorkshire.",
+      "year": "1847",
+      "image": "https://i.pinimg.com/originals/11/0c/30/110c3072b123c40f94fa15fae9b5b2e7.jpg",
+      "page": 342
+    },
+    {
+      "id": 14,
+      "title": "The Sea of Cortez",
+      "author": "John Steinbeck",
+      "description": "Set in 1930s California, this novel portrays the lives of fishermen.",
+      "year": "1947",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388266636i/199045.jpg",
+      "page": 602
+    },
+    {
+      "id": 15,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "description": "This novel, one of the literary masterpieces, tells the story of a young student named Raskolnikov who deals with crime and conscience.",
+      "year": "1866",
+      "image": "https://cdn.kobo.com/book-images/c8f66724-16c7-4e30-ab42-2e205435eb20/1200/1200/False/crime-and-punishment-by-fyodor-dostoyevsky.jpg",
+      "page": 506
+    },
+    {
+      "id": 16,
+      "title": "Fi",
+      "author": "Azra Kohen",
+      "description": "The journey of experiencing without getting lost in the experience.",
+      "year": "2010",
+      "image": "https://static.nadirkitap.com/fotograf/970521/31/Kitap_202302162234119705213.jpg",
+      "page": 265
+    },
+    {
+      "id": 17,
+      "title": "Ci",
+      "author": "Azra Kohen",
+      "description": "The journey of experiencing without getting lost in the experience.",
+      "year": "2011",
+      "image": "https://static.nadirkitap.com/fotograf/970521/31/Kitap_202302162234119705213.jpg",
+      "page": 321
+    },
+    {
+      "id": 18,
+      "title": "Pi",
+      "author": "Azra Kohen",
+      "description": "The journey of experiencing without getting lost in the experience.",
+      "year": "2013",
+      "image": "https://static.nadirkitap.com/fotograf/970521/31/Kitap_202302162234119705213.jpg",
+      "page": 156
+    },
+    {
+      "id": 19,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "description": "Small changes, big results.",
+      "year": "2013",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/regionalbooks/v/c/p/atomic-habits-book-the-life-changing-paperback-english-2018-by-original-imagf5mdh4qbr8tr.jpeg?q=90",
+      "page": 201
+    },
+    {
+      "id": 20,
+      "title": "The Miracle Morning",
+      "author": "Hal Elrod",
+      "description": "Guaranteed to Change Your Life Before 8 AM in 6 Minutes.",
+      "year": "2013",
+      "image": "https://m.media-amazon.com/images/M/MV5BMzRlZjE2OGMtODQ1NS00Yzg1LTlkMzItMWY0NmZkNTNlMzc3XkEyXkFqcGdeQXVyMzM1MDc0Mg@@._V1_.jpg",
+      "page": 192
+    }
+  ]
+}
